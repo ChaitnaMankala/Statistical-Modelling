@@ -2,12 +2,14 @@
 This project explores the relationship between various musical features and the popularity of music tracks using statistical modelling techniques in Python. It demonstrates the end-to-end process of data cleaning, exploratory data analysis, visualization, and linear regression modelling to uncover key insights into what makes a track popular.
 
 **Objective**
+
 The goal is to use statistical modelling to:
 - Analyze how features like danceability, energy, loudness, acousticness, and valence influence the popularity of songs.
 - Identify the features that are statistically significant in determining a track's popularity.
 - Compare trends across explicit and non-explicit tracks.
 
 **Dataset**
+
 The dataset includes 100 music tracks and their metadata such as:
 - Track Name, Artist, Album
 - Popularity score
